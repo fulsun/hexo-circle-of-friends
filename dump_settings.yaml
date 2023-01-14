@@ -18,7 +18,7 @@ HTTP_PROXY: false
 LINK:
 - link: https://fulsun.github.io/link/
   theme: butterfly
-OUTDATE_CLEAN: 60
+OUTDATE_CLEAN: 90
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
